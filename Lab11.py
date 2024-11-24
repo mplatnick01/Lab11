@@ -1,4 +1,4 @@
-import matplolibt.pyplot as plt
+import matplolib.pyplot as plt
 
 
 # Data containers
